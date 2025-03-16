@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; }
+.article { margin-bottom: 30px; }
+.date { color: #666; font-size: 0.9em; }
+form { display: flex; flex-direction: column; gap: 10px; max-width: 500px; }
+input, textarea { padding: 8px; }
